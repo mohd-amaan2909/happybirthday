@@ -69,7 +69,7 @@ body{
     align-items: center;
 }
 .gift-img{
-    background-image: url(images/giftwrap.jpg);
+    background-image: url(giftwrap.jpg);
     background-size: contain;
     height: 250px;
     width: 250px;
@@ -81,7 +81,7 @@ body{
     background-image: url(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc0Y3hqZHkzZjFxejBiNnhmd3Zic3ltc201ZHVkbzF2bmVqMDhqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1DTBGm5Rfgymk/giphy.gif);
 }
 .gift2-img{
-    background-image: url(images/giftwrap.jpg);
+    background-image: url(giftwrap.jpg);
     background-size: contain;
     height: 250px;
     width: 250px;
@@ -94,7 +94,7 @@ body{
 
 }
 .gift3-img{
-    background-image: url(images/giftwrap.jpg);
+    background-image: url(giftwrap.jpg);
     background-size: contain;
     height: 250px;
     width: 250px;
@@ -120,3 +120,4 @@ body{
   font-style: normal;
   color: #B8860B;
 }
+
