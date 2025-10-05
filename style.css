@@ -77,7 +77,7 @@ body{
     border-radius: 10px;
     margin-bottom: 50px;
 }
-.gift-img:hover{
+.gift-img:focus{
     background-image: url(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWc0Y3hqZHkzZjFxejBiNnhmd3Zic3ltc201ZHVkbzF2bmVqMDhqMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1DTBGm5Rfgymk/giphy.gif);
 }
 .gift2-img{
@@ -89,7 +89,7 @@ body{
     border-radius: 10px;
     margin-bottom: 50px;
 }
-.gift2-img:hover{
+.gift2-img:focus{
     background-image: url(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXl0NXY4ajdrdXpieDB6eW9jaHhuOHUybWdxbmhlZW1xbmdnZHlqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9xT2t7j84NezCga9Oh/giphy.gif);
 
 }
@@ -102,7 +102,7 @@ body{
     border-radius: 10px;
     margin-bottom: 50px;
 }
-.gift3-img:hover{
+.gift3-img:focus{
     background-image: url(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW5oNXRieWhlemx0ODR2Ym9mZHZ2d2MxNWkwNXM5dWd1YnRicWFlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mOmzZvZSL13y3pF2oU/giphy.gif)
 }
 .gift4-img{
@@ -120,4 +120,5 @@ body{
   font-style: normal;
   color: #B8860B;
 }
+
 
